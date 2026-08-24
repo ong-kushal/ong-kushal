@@ -56,16 +56,6 @@ I am a passionate **Team Lead and Full Stack Web Developer** with 5+ years of ex
   *Jul 2016 – Jul 2020* | Upper Second Class Honours
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushalneupane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalneupane&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 📧 **Email:** [ong.kushal@gmail.com](mailto:ong.kushal@gmail.com)
