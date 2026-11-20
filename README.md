@@ -20,5 +20,11 @@
 
 <p center>
 <!-- JOKE:START -->
+
+> ""Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned."
+
 <!-- JOKE:END -->
 </p>
