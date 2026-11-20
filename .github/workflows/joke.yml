@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger anytime
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-joke:
     runs-on: ubuntu-latest
