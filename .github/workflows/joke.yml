@@ -32,9 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash push -m "joke-update" README.md
-          git pull --rebase origin main
-          git stash pop || true
+          git pull --rebase --autostash origin main
           git add README.md
           git commit -m "Update daily joke" || exit 0
           git push
