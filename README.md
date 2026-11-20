@@ -19,5 +19,8 @@
 ---
 
 <p center>
-  ![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=dark)
+  ### 🎭 Daily Joke
+
+<!-- JOKE:START -->
+<!-- JOKE:END -->
 </p>
