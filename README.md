@@ -19,8 +19,6 @@
 ---
 
 <p center>
-  ### 🎭 Daily Joke
-
 <!-- JOKE:START -->
 <!-- JOKE:END -->
 </p>
