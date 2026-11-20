@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "A perfectionist walked into a bar... apparently, the bar was not set high enough."
+> "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!"
 
 <!-- JOKE:END -->
 </p>
