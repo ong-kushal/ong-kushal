@@ -1,0 +1,34 @@
+name: Fetch Daily Joke
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger anytime
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch joke and update README
+        run: |
+          JOKE_TEXT=$(curl -s "https://v2.jokeapi.dev/joke/Any?type=single" | jq -r '.joke')
+          python3 -c "
+          with open('README.md', 'r') as f:
+              content = f.read()
+          start = '<!-- JOKE:START -->'
+          end = '<!-- JOKE:END -->'
+          new_content = content.split(start)[0] + start + '\n\n> \"' + '''$JOKE_TEXT''' + '\"\n\n' + end + content.split(end)[1]
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update daily joke" || exit 0
+          git push
