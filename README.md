@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "How do you make holy water? You freeze it and drill holes in it."
+> "A perfectionist walked into a bar... apparently, the bar was not set high enough."
 
 <!-- JOKE:END -->
 </p>
