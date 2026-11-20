@@ -21,10 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> ""Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned."
+> "How do you make holy water? You freeze it and drill holes in it."
 
 <!-- JOKE:END -->
 </p>
