@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "I was going to tell a dead baby joke. But I decided to abort."
+> "ASCII silly question, get a silly ANSI."
 
 <!-- JOKE:END -->
 </p>
