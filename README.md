@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "ASCII silly question, get a silly ANSI."
+> "// This line doesn't actually do anything, but the code stops working when I delete it."
 
 <!-- JOKE:END -->
 </p>
