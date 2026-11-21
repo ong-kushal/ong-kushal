@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!"
+> "I was going to tell a dead baby joke. But I decided to abort."
 
 <!-- JOKE:END -->
 </p>
