@@ -1,4 +1,4 @@
-# Hi there, I'm Kushal Neupane 👋 
+# Hi there 👋 
 
 ### 🛠️ Tech Stack & Skills
 
