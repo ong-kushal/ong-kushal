@@ -21,13 +21,8 @@
 <p center>
 <!-- JOKE:START -->
 
-> "The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?"
+> "Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence"."
 
 <!-- JOKE:END -->
 </p>
