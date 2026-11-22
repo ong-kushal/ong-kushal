@@ -21,8 +21,8 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Nowadays people are so sensitive, you can't even say "black paint" anymore.
-Instead, you have to say "Jamal, please paint the fence"."
+> "Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday."
 
 <!-- JOKE:END -->
 </p>
