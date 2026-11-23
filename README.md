@@ -21,7 +21,10 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary."
+> "What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges."
 
 <!-- JOKE:END -->
 </p>
