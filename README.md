@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven."
+> "Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary."
 
 <!-- JOKE:END -->
 </p>
