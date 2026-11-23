@@ -21,8 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday."
+> "Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven."
 
 <!-- JOKE:END -->
 </p>
