@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."
+> "Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in."
 
 <!-- JOKE:END -->
 </p>
