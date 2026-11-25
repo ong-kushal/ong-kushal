@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in."
+> "I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?""
 
 <!-- JOKE:END -->
 </p>
