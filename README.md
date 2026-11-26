@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "I'm reading a book about anti-gravity. It's impossible to put down!"
+> "How do you make holy water? You freeze it and drill holes in it."
 
 <!-- JOKE:END -->
 </p>
