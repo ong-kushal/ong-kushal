@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?""
+> "Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?""
 
 <!-- JOKE:END -->
 </p>
