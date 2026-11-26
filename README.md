@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?""
+> "I'm reading a book about anti-gravity. It's impossible to put down!"
 
 <!-- JOKE:END -->
 </p>
