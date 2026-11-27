@@ -21,7 +21,7 @@
 <p center>
 <!-- JOKE:START -->
 
-> "How do you make holy water? You freeze it and drill holes in it."
+> "Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone"."
 
 <!-- JOKE:END -->
 </p>
