@@ -21,7 +21,8 @@
 <p center>
 <!-- JOKE:START -->
 
-> "Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone"."
+> "A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!""
 
 <!-- JOKE:END -->
 </p>
