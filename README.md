@@ -21,8 +21,8 @@
 <p center>
 <!-- JOKE:START -->
 
-> "A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!""
+> "My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right."
 
 <!-- JOKE:END -->
 </p>
